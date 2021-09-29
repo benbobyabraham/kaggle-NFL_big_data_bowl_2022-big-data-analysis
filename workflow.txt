@@ -1,0 +1,11 @@
+ML Workflow
+
+Step - 1: Data Preprocessing
+Step - 2: Exploratory data analysis (EDA)
+Step - 3: Feature Selection
+Step - 4: Model training
+Step - 5: Model Evaluation metrics
+Step - 6: Results/Inferences
+Step - 7: Fill sample_submission.csv
+
+
